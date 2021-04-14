@@ -1,4 +1,4 @@
-		
+			jQuery(function($){
 				
 				$.supersized({
 				
@@ -42,4 +42,4 @@
 					mouse_scrub				:	0
 					
 				});
-		    
+		    });
